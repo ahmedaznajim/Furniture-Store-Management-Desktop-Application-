@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "furnitureStoreV2", "furnitureStoreV2.csproj", "{5ECCFF8D-1503-4645-887F-E2D89CE73011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "..\BusinessLayer\BusinessLayer.csproj", "{5E5A4717-338D-4100-868F-CA499D1CCE77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{593AFF2F-5CAA-47A0-A8E6-B253FA641C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECCFF8D-1503-4645-887F-E2D89CE73011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECCFF8D-1503-4645-887F-E2D89CE73011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECCFF8D-1503-4645-887F-E2D89CE73011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECCFF8D-1503-4645-887F-E2D89CE73011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5A4717-338D-4100-868F-CA499D1CCE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5A4717-338D-4100-868F-CA499D1CCE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5A4717-338D-4100-868F-CA499D1CCE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5A4717-338D-4100-868F-CA499D1CCE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593AFF2F-5CAA-47A0-A8E6-B253FA641C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593AFF2F-5CAA-47A0-A8E6-B253FA641C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593AFF2F-5CAA-47A0-A8E6-B253FA641C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593AFF2F-5CAA-47A0-A8E6-B253FA641C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
